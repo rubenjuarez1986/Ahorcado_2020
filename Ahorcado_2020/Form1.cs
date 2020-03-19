@@ -57,8 +57,8 @@ namespace Ahorcado_2020
                 case 3: pictureBox1.Image = Properties.Resources.ahorcado_3; break;
                 case 4: pictureBox1.Image = Properties.Resources.ahorcado_4; break;
                 case 5: pictureBox1.Image = Properties.Resources.ahorcado_5; break;
-                case 6: pictureBox1.Image = Properties.Resources.ahorcado_fin; break;
-                case -100: pictureBox1.Image = Properties.Resources.acertastetodo; break;
+                case 6: pictureBox1.Image = Properties.Resources.ahorcado_fin1; break;
+                case -100: pictureBox1.Image = Properties.Resources.homer; break;
                 default: pictureBox1.Image = Properties.Resources.ahorcado_fin; break;
 
             }

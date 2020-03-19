@@ -72,7 +72,7 @@
             // 
             // pictureBox1
             // 
-            this.pictureBox1.Image = global::Ahorcado_2020.Properties.Resources.ahorcado_fin;
+            this.pictureBox1.Image = global::Ahorcado_2020.Properties.Resources.homer;
             this.pictureBox1.Location = new System.Drawing.Point(36, 123);
             this.pictureBox1.Name = "pictureBox1";
             this.pictureBox1.Size = new System.Drawing.Size(350, 285);
